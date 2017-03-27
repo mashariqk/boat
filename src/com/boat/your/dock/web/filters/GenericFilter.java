@@ -1,11 +1,11 @@
 package com.boat.your.dock.web.filters;
 
-import org.apache.catalina.servlet4preview.http.HttpServletRequest;
 import com.boat.your.dock.services.GenericRequestHandlerService;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
+import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 

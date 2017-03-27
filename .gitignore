@@ -7,5 +7,6 @@ fileForSAP.txt
 /build/
 .idea/
 lib/
+out/
 *.iml
 
